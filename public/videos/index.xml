@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Videos on WAG Labs</title>
-    <link>http://localhost:1313/wag-labs/videos/</link>
+    <link>https://proshawnsky.github.io/wag-labs/videos/</link>
     <description>Recent content in Videos on WAG Labs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/wag-labs/videos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://proshawnsky.github.io/wag-labs/videos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automated Top-Speed RC Car</title>
-      <link>http://localhost:1313/wag-labs/videos/rc-car-speedrun/</link>
+      <link>https://proshawnsky.github.io/wag-labs/videos/rc-car-speedrun/</link>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wag-labs/videos/rc-car-speedrun/</guid>
+      <guid>https://proshawnsky.github.io/wag-labs/videos/rc-car-speedrun/</guid>
       <description>&lt;p&gt;First WAG Labs video — an ArduPilot-equipped RC car doing automated top-speed runs.&lt;/p&gt;</description>
     </item>
   </channel>

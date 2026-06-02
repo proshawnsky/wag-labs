@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Flight Controller on WAG Labs</title>
-    <link>http://localhost:1313/wag-labs/tags/flight-controller/</link>
+    <link>https://proshawnsky.github.io/wag-labs/tags/flight-controller/</link>
     <description>Recent content in Flight Controller on WAG Labs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/wag-labs/tags/flight-controller/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://proshawnsky.github.io/wag-labs/tags/flight-controller/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>VTOL Hover Plane</title>
-      <link>http://localhost:1313/wag-labs/projects/vtol-hover-plane/</link>
+      <link>https://proshawnsky.github.io/wag-labs/projects/vtol-hover-plane/</link>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wag-labs/projects/vtol-hover-plane/</guid>
+      <guid>https://proshawnsky.github.io/wag-labs/projects/vtol-hover-plane/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Designing and building a VTOL hover plane with a Simulink LQR attitude
 controller deployed to a Teensy 4.1 flight controller.&lt;/p&gt;
