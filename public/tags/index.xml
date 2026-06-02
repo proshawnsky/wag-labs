@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on WAG Labs</title>
+    <link>http://localhost:1313/wag-labs/tags/</link>
+    <description>Recent content in Tags on WAG Labs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/wag-labs/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ardupilot</title>
+      <link>http://localhost:1313/wag-labs/tags/ardupilot/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wag-labs/tags/ardupilot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flight Controller</title>
+      <link>http://localhost:1313/wag-labs/tags/flight-controller/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wag-labs/tags/flight-controller/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rc</title>
+      <link>http://localhost:1313/wag-labs/tags/rc/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wag-labs/tags/rc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Simulink</title>
+      <link>http://localhost:1313/wag-labs/tags/simulink/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wag-labs/tags/simulink/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Teensy</title>
+      <link>http://localhost:1313/wag-labs/tags/teensy/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wag-labs/tags/teensy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vtol</title>
+      <link>http://localhost:1313/wag-labs/tags/vtol/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wag-labs/tags/vtol/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wag Labs</title>
+      <link>http://localhost:1313/wag-labs/tags/wag-labs/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wag-labs/tags/wag-labs/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

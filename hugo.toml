@@ -1,0 +1,31 @@
+baseURL = "https://proshawnsky.github.io/wag-labs/"
+languageCode = "en-us"
+title = "WAG Labs"
+theme = "PaperMod"
+paginate = 10
+
+[params]
+  author = "Shawn"
+  description = "Engineering projects, RC aircraft, embedded systems, and builds."
+  homeInfoParams = {Title = "WAG Labs", Content = "Hobbyist engineer documenting things that fly, roll, and occasionally catch fire."}
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+
+[[params.socialIcons]]
+  name = "youtube"
+  url = "https://youtube.com/@WAGLabs"
+
+[menu]
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 1
+  [[menu.main]]
+    name = "Videos"
+    url = "/videos/"
+    weight = 2
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
