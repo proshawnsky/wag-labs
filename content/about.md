@@ -4,8 +4,9 @@ date: 2026-06-01
 draft: false
 ---
 
-Hobbyist engineer based in Southern California. I build things that fly, roll,
-spin, and occasionally catch fire. WAG Labs is where I document what I make.
+I'm an aerospace engineer with a passion for making things.
 
-**Interests:** RC aircraft, VTOL flight controllers, ArduPilot, Simulink,
-embedded C++, 3D printing, woodworking, PCB design.
+In my professional work, I've written flight software for $50M+ satellites and unmanned jet aircraft. These are applications where small mistakes have big consequences.
+
+My personal projects are a creative outlet where I can do the things I'm passionate about while learning from frequent mistakes with no consequences.
+
