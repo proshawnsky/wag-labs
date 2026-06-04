@@ -6,3 +6,5 @@ tags: ["rc", "ardupilot", "wag labs"]
 ---
 
 First WAG Labs video — an ArduPilot-equipped RC car doing automated top-speed runs.
+
+{{< youtube v3eDyWabnwM >}}
