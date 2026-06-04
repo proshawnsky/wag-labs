@@ -3,6 +3,10 @@ title: "Motorized Telescope Mount"
 date: 2026-06-03
 draft: false
 tags: ["astrophotography", "stepper motor", "3d printing", "embedded", "telescope"]
+cover:
+  image: "/wag-labs/images/telescope%20mount/mount.jpeg"
+  alt: "Jupiter captured with motorized telescope mount"
+  relative: false
 ---
 
 Proper astrophotography requires long-exposures and therefore a mechanism to track celestial objects as the Earth's rotation causes them to move across the sky. To achieve this, I upgraded our telescope's equatorial mount with a motorized tracking system.

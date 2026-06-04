@@ -3,6 +3,10 @@ title: "DIY Low-Cost Active 3D Motion Tracking"
 date: 2026-06-03
 draft: false
 tags: ["motion capture", "computer vision", "3d printing", "aruco", "opencv"]
+cover:
+  image: "/wag-labs/images/motion-capture/Object Detection and Algorithm Robustness.png"
+  alt: "Motion capture camera hardware"
+  relative: false
 ---
 
 After using Optitrack systems in one of my graduate controls labs, I became fascinated by motion tracking cameras/algorithms and wanted to experiment with a DIY version. The basic premise is that 2 or more cameras observe the same point in 3D space and, using knowledge of their position and orientation in the room, can reconstruct the 3D coordinates of the point from their 2D views.
