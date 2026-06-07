@@ -1,10 +1,29 @@
+/* Grid layout — only activates on list pages */
+.main:has(.post-entry) {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 1.25rem;
+  align-items: start;
+}
+
+/* Keep header, footer, and page content full-width */
+.main:has(.post-entry) > *:not(.post-entry) {
+  grid-column: 1 / -1;
+}
+
+/* Square thumbnails */
 .entry-cover {
-  max-height: 160px;
+  aspect-ratio: 1;
   overflow: hidden;
+  max-height: none;
 }
 
 .entry-cover img {
   width: 100%;
-  height: 160px;
+  height: 100%;
   object-fit: cover;
+}
+
+.post-entry {
+  margin: 0;
 }
