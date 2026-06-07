@@ -3,7 +3,7 @@ title: "Kitchen Island"
 date: 2026-06-07
 draft: false
 cover:
-  image: "/wag-labs/images/kitchen%20island/IMG_1250.jpg"
+  image: "/wag-labs/images/kitchen%20island/IMG_1261.jpg"
   alt: "Kitchen island"
   relative: false
 ---

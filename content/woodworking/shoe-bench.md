@@ -3,7 +3,7 @@ title: "Entryway Shoe Bench"
 date: 2026-06-07
 draft: false
 cover:
-  image: "/wag-labs/images/shoe%20bench/IMG_1372.jpg"
+  image: "/wag-labs/images/shoe%20bench/IMG_1407.jpg"
   alt: "Entryway shoe bench"
   relative: false
 ---

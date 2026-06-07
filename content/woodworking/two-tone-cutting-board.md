@@ -3,7 +3,7 @@ title: "Exotic Hardwood Cutting Board"
 date: 2026-06-07
 draft: false
 cover:
-  image: "/wag-labs/images/red-and-purple%20cutting%20board/IMG_6528.jpg"
+  image: "/wag-labs/images/red-and-purple%20cutting%20board/IMG_6709.jpg"
   alt: "Two-tone red and purple cutting board"
   relative: false
 ---
