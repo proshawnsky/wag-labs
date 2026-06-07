@@ -4,9 +4,8 @@ date: 2026-06-01
 draft: false
 ---
 
-I'm an aerospace engineer with a passion for making things.
+I'm an aerospace engineer and amateur woodworker with a passion for making things.
 
-In my professional work, I've written flight software for $50M+ satellites and unmanned jet aircraft. These are applications where small mistakes have big consequences.
+In my professional work, I've developed flight software and guidance algorithms for both spacecraft and unmanned jet aircraft—applcations where small mistakes are consequential. 
 
-My personal projects are a creative outlet where I can do the things I'm passionate about while learning from frequent mistakes with no consequences.
-
+My personal projects serve as a creative outlet where I can build what I'm pasionate about, make frequent mistakes, and learn from them.
