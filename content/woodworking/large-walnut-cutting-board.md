@@ -9,5 +9,5 @@ cover:
 ---
 
 ![](/wag-labs/images/big%20walnut%20cutting%20board/IMG_9745.jpg)
-![](/wag-labs/images/big%20walnut%20cutting%20board/IMG_9746.HEIC)
-![](/wag-labs/images/big%20walnut%20cutting%20board/IMG_1550.heic)
+![](/wag-labs/images/big%20walnut%20cutting%20board/IMG_9746.jpg)
+![](/wag-labs/images/big%20walnut%20cutting%20board/IMG_1550.jpg)

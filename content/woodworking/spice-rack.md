@@ -9,5 +9,5 @@ cover:
 ---
 
 ![](/wag-labs/images/spice%20rack/IMG_1348.JPG)
-![](/wag-labs/images/spice%20rack/IMG_1377.HEIC)
-![](/wag-labs/images/spice%20rack/IMG_1379.HEIC)
+![](/wag-labs/images/spice%20rack/IMG_1377.jpg)
+![](/wag-labs/images/spice%20rack/IMG_1379.jpg)
