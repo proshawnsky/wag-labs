@@ -27,14 +27,3 @@
 .post-entry {
   margin: 0;
 }
-
-/* Inline project entries on section pages (Projects, Woodworking) */
-.section-project {
-  margin-bottom: 0;
-}
-
-.section-project-sep {
-  margin: 3rem 0;
-  border: 0;
-  border-top: 1px solid var(--border);
-}

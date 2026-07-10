@@ -2,7 +2,8 @@ baseURL = "https://proshawnsky.github.io/wag-labs/"
 languageCode = "en-us"
 title = "WAG Labs"
 theme = "PaperMod"
-paginate = 10
+[pagination]
+  pagerSize = 500
 
 [params]
   author = "Shawn"
