@@ -19,14 +19,26 @@ theme = "PaperMod"
 
 [menu]
   [[menu.main]]
-    name = "Projects"
-    url = "/projects/"
+    name = "Engineering"
+    url = "/engineering/"
     weight = 1
+  [[menu.main]]
+    name = "Software"
+    url = "/software/"
+    weight = 2
   [[menu.main]]
     name = "Woodworking"
     url = "/woodworking/"
-    weight = 2
+    weight = 3
+  [[menu.main]]
+    name = "RC Aircraft"
+    url = "/rc-aircraft/"
+    weight = 4
+  [[menu.main]]
+    name = "General Aviation"
+    url = "/general-aviation/"
+    weight = 5
   [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 3
+    weight = 6
