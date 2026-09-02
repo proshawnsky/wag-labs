@@ -9,7 +9,7 @@ pluralizeListTitles = false
 [params]
   author = "Shawn"
   description = "Engineering projects, RC aircraft, embedded systems, and builds."
-  homeInfoParams = {Title = "WAG Labs", Content = "Hobbyist engineer documenting things that fly, roll, and occasionally catch fire."}
+  homeInfoParams = {Title = "WAG Labs", Content = "A project portfolio by Shawn Prosky."}
   ShowReadingTime = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
