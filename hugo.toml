@@ -2,6 +2,7 @@ baseURL = "https://proshawnsky.github.io/wag-labs/"
 languageCode = "en-us"
 title = "WAG Labs"
 theme = "PaperMod"
+pluralizeListTitles = false
 [pagination]
   pagerSize = 500
 
@@ -35,8 +36,8 @@ theme = "PaperMod"
     url = "/rc-aircraft/"
     weight = 4
   [[menu.main]]
-    name = "General Aviation"
-    url = "/general-aviation/"
+    name = "Pilot"
+    url = "/pilot/"
     weight = 5
   [[menu.main]]
     name = "About"

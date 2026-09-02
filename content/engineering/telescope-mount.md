@@ -32,3 +32,6 @@ I fabricated a control board which sends discrete motor step commands separated 
 The fine angular resolution, virtually non-existent backlash, and well-calibrated tracking rate enable crisp, long-exposure astrophotography for a fraction of the cost of commercial alternatives.
 
 ![Jupiter](/wag-labs/images/telescope%20mount/jupiter.jpeg)
+
+![Right Ascension motor](/wag-labs/images/telescope%20mount/motorized_telescope_ra_motor.png)
+*Right Ascension motor*

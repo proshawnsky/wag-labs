@@ -48,3 +48,8 @@ Three active markers are arranged in a scalene right triangle, representing a ve
 ![Object Detection and Algorithm Robustness](/wag-labs/images/motion-capture/Object%20Detection%20and%20Algorithm%20Robustness.png)
 
 When using only 2 cameras, there is ambiguity if 2 points are collinear in a single camera's field of view. Additionally, stray light can cause false detections. To work around this, the code analyzes all possible triangles formed by near-intersections of all 3D lines. The triangle whose side lengths most closely match the known marker dimensions is taken as the actual object.
+
+## Camera CAD
+
+![Camera CAD](/wag-labs/images/motion-capture/motion_capture_camera_cad.png)
+*Camera CAD*

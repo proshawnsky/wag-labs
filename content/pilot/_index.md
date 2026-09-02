@@ -1,5 +1,5 @@
 ---
-title: "General Aviation Aircraft"
+title: "Pilot"
 date: 2026-09-01
 draft: false
 ---
@@ -16,8 +16,5 @@ Flight experience with full-scale general aviation aircraft.
 ![Final approach into Sedona, AZ (KSEZ)](/wag-labs/images/general_aviation/sedona.png)
 *Final approach into Sedona, AZ (KSEZ)*
 
-![Flying inverted in a Decathlon](/wag-labs/images/general_aviation/decathalon.png)
-*Flying inverted in a Decathlon*
-
-![Evektor Sportstar](/wag-labs/images/general_aviation/sportstar.png)
-*Evektor Sportstar*
+![Inverted flight during aerobatic training in a Decathlon](/wag-labs/images/general_aviation/decathalon.png)
+*Inverted flight during aerobatic training in a Decathlon*
