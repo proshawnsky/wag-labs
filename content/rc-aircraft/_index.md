@@ -9,4 +9,4 @@ Model aviation is a pastime I've enjoyed since being introduced to it in middle 
 ### Tools and Capabilities
 
 - **Airframe design & build:** foamboard scratch-building, 3D-printed airframe design
-- **Flight control:** flight controller firmware (Betaflight, INAV, Ardupilot, PX4), PID tuning, GPS / autonomous flight modes
+- **Flight control:** flight controller firmware (Betaflight, INAV, Ardupilot, PX4), PID tuning, GPS / autonomous flight modes, QGroundControl, Mission Planner, MAVLink

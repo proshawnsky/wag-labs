@@ -8,5 +8,11 @@ draft: false
 
 ### Tools and Capabilities
 
-- **Power tools:** table saw, miter saw, band saw, planer, router / router table, drill press, lathe
-- **Digital fabrication:** CNC routing (Shapeoko / etc.), laser engraving
+- table saw
+- miter saw
+- band saw
+- planer
+- hand/trim router
+- CNC router
+- drill press
+- lathe
