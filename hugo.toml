@@ -24,22 +24,18 @@ pluralizeListTitles = false
     url = "/engineering/"
     weight = 1
   [[menu.main]]
-    name = "Software"
-    url = "/software/"
-    weight = 2
-  [[menu.main]]
     name = "Woodworking"
     url = "/woodworking/"
-    weight = 3
+    weight = 2
   [[menu.main]]
     name = "RC Aircraft"
     url = "/rc-aircraft/"
-    weight = 4
+    weight = 3
   [[menu.main]]
     name = "Pilot"
     url = "/pilot/"
-    weight = 5
+    weight = 4
   [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 6
+    weight = 5
